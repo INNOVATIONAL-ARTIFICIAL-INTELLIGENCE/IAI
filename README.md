@@ -6,9 +6,10 @@ which aims to promote sustainable and inclusive AI development.
 Our mission is to harness the power of AI to serve all humanity, 
 creating a future where technology works for the greater good.
 
-You can read our full manifesto here:
+You can read our full manifesto here 
 https://github.com/INNOVATIONAL-ARTIFICIAL-INTELLIGENCE/IAI/blob/main/IAI.Manifesto.md
 
+.
 
 Καλώς ήρθατε στο Αποθετήριο IAI.
 ________________________________________________________________________________________________________
