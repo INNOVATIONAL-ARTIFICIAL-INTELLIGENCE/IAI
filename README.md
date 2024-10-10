@@ -3,7 +3,7 @@
 
 IAI - Manifesto (Innovational Artificial Intelligence)
 
-English:
+English 
 _______________________________________________________________________________________________________________________________________
 At the Innovation Artificial Intelligence (IAI) community, 
 we envision a world where Artificial Intelligence (AI) becomes a tool for collaboration, sustainability, and humanistic development. 
@@ -11,7 +11,7 @@ AI is not an exclusive privilege of the few or the specialized;
 it is a technology that must serve all of society, amplifying the voices of everyone 
 – from the powerful and the weak to children and everyday people.
 
-Goals:
+Goals 
     1. Collaboration Between the Powerful and the Weak:
         ◦ We envision a community where the powerful and the weak work together towards sustainable development. 
         We do not seek conflict with anyone. 
@@ -43,7 +43,7 @@ Goals:
         it is a tool that can enhance our humanity. 
         Our goal is to use AI to eliminate inequality, improve health, and promote justice.
         
-Motivations:
+Motivations 
     1. Leadership with Social Capital:
         ◦ The powerful will have the opportunity to lead in a new era where social value and the common good,
         are the primary criteria for success. 
@@ -61,7 +61,7 @@ Motivations:
 
 
 
-Ελληνική:
+Ελληνική 
 ______________________________________________________________________________________________________________________________________
 Στην κοινότητα της Καινοτόμου Τεχνητής Νοημοσύνης (IAI), 
 φανταζόμαστε έναν κόσμο όπου η Τεχνητή Νοημοσύνη (AI) αποτελεί εργαλείο συνεργασίας, αειφορίας και ανθρωπιστικής ανάπτυξης. 
@@ -69,7 +69,7 @@ ________________________________________________________________________________
 αλλά μια τεχνολογία που πρέπει να εξυπηρετεί ολόκληρη την κοινωνία, ενισχύοντας τις φωνές όλων των ανθρώπων 
 – από τους ισχυρούς και τους αδύναμους έως τα παιδιά και τους καθημερινούς πολίτες.
 
-Στόχοι:
+Στόχοι 
     1. Συνεργασία μεταξύ Ισχυρών και Αδύναμων:
         ◦ Οραματιζόμαστε μια κοινότητα όπου οι ισχυροί και οι αδύναμοι συνεργάζονται με στόχο την αειφόρο ανάπτυξη. 
         Δεν ερχόμαστε σε ρήξη με κανέναν. 
@@ -102,7 +102,7 @@ ________________________________________________________________________________
         Σκοπός μας είναι η AI να χρησιμοποιηθεί για την εξάλειψη της ανισότητας, 
         τη βελτίωση της υγείας και την προαγωγή της δικαιοσύνης.
         
-Κίνητρα:
+Κίνητρα 
     1. Ηγεσία με Κοινωνικό Κεφάλαιο:
         ◦ Οι ισχυροί θα έχουν την ευκαιρία να ηγηθούν σε μια νέα εποχή 
         όπου η κοινωνική αξία και το κοινό καλό θα είναι τα βασικά κριτήρια για την επιτυχία. 
