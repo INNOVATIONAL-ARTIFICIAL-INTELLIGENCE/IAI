@@ -12,6 +12,7 @@ it is a technology that must serve all of society, amplifying the voices of ever
 – from the powerful and the weak to children and everyday people.
 
 Goals 
+__________________________________________________________________________________________________________________
     1. Collaboration Between the Powerful and the Weak:
         ◦ We envision a community where the powerful and the weak work together towards sustainable development. 
         We do not seek conflict with anyone. 
@@ -28,7 +29,8 @@ Goals
         
     3. Participation and Inclusion for All:
         ◦ The future of AI belongs to everyone. 
-        At IAI, we recognize that the voice of every person – from experts to everyday citizens and children – matters. 
+        At IAI, we recognize that the voice of every person 
+        – from experts to everyday citizens and children – matters. 
         AI must be designed with society’s needs in mind, aiming to improve the quality of life for all.
         
     4. Turning Anger into Constructive Energy:
@@ -44,6 +46,7 @@ Goals
         Our goal is to use AI to eliminate inequality, improve health, and promote justice.
         
 Motivations 
+___________________________________________________________________________________________________________________
     1. Leadership with Social Capital:
         ◦ The powerful will have the opportunity to lead in a new era where social value and the common good,
         are the primary criteria for success. 
@@ -70,6 +73,7 @@ ________________________________________________________________________________
 – από τους ισχυρούς και τους αδύναμους έως τα παιδιά και τους καθημερινούς πολίτες.
 
 Στόχοι 
+__________________________________________________________________________________________________________________________
     1. Συνεργασία μεταξύ Ισχυρών και Αδύναμων:
         ◦ Οραματιζόμαστε μια κοινότητα όπου οι ισχυροί και οι αδύναμοι συνεργάζονται με στόχο την αειφόρο ανάπτυξη. 
         Δεν ερχόμαστε σε ρήξη με κανέναν. 
@@ -103,6 +107,7 @@ ________________________________________________________________________________
         τη βελτίωση της υγείας και την προαγωγή της δικαιοσύνης.
         
 Κίνητρα 
+___________________________________________________________________________________________________________________________
     1. Ηγεσία με Κοινωνικό Κεφάλαιο:
         ◦ Οι ισχυροί θα έχουν την ευκαιρία να ηγηθούν σε μια νέα εποχή 
         όπου η κοινωνική αξία και το κοινό καλό θα είναι τα βασικά κριτήρια για την επιτυχία. 
