@@ -16,9 +16,9 @@ English
 
 Transition from AI to IAI.
 ______________________________________________________________________________________________________________________________________
-In the Innovative Artificial Intelligence (IAI) community, 
+  In the Innovative Artificial Intelligence (IAI) community, 
 we imagine a world where Artificial Intelligence (IAI) is a tool for Collaboration, Sustainability and Humanitarian Development. 
-  AI is not the exclusive prerogative of the few or the niche, But a technology that should serve the whole society, 
+AI is not the exclusive prerogative of the few or the niche, But a technology that should serve the whole society, 
 amplifying the voices of all people - from the strong and the weak to children and ordinary citizens -.
 
 
@@ -57,22 +57,22 @@ ________________________________________________________________________________
   1. Cooperation between Strong and Weak:
      -----------------------------------
           We envision IAI as a community where the strong and the weak work together towards sustainable development.
-          
-          1st Principle is that: As members of the IAI community we do not break with anyone.
-        
+
+          1st Principle is that as members of the IAI community we do not break with anyone. 
+
           The Powerful Can Offer Their Media and Knowledge to Lead a New Era of Value Leadership
         that will upgrade their role through their contribution to society. 
           The weak will gain access to better living conditions and opportunities for Children and Work, without revolts, 
         but through creative and constructive actions that will give them Value.
    
-  2. Sustainable Development and New Incentives:
+  3. Sustainable Development and New Incentives:
      ------------------------------------------
         ◦   With IAI we want to create new incentives that are not based solely on money. 
           Instead, Social Value, Innovation and Humanitarian Contribution will be the new means of reward. 
             IAI technology can create new markets, 
           to open up wealth resources based on prosperity and not just economic strength.
    
-   3. Participation and Inclusion for All:
+   4. Participation and Inclusion for All:
       -----------------------------------
         ◦   We want the future of IAI to belong to everyone. In the IAI community, we recognize that every person's opinion 
           – from doctorates, experts, experts to ordinary people, citizens and children – 
@@ -80,7 +80,7 @@ ________________________________________________________________________________
             AI must be designed based on the needs of society centered on Man and Earth, 
           aiming to improve the quality of life for all.
     
-   4. Transforming Rage into Creative Energy:
+   5. Transforming Rage into Creative Energy:
       --------------------------------------
         ◦   Social weakness and anger and inequalities should not lead to conflict. 
           Our goal is through IAI to transform the Energy of weakness and rage into creative dynamic work. 
@@ -88,7 +88,7 @@ ________________________________________________________________________________
           the weak will be able to actively contribute to building a fairer world; 
           where the IAI will be an instrument of progress.
         
-  5. Artificial Intelligence as a Tool for Humanitarian Development:
+  6. Artificial Intelligence as a Tool for Humanitarian Development:
      --------------------------------------------------------------
         ◦  We don't want IAI to be just technology, but a tool that can enhance our humanity. 
            Our goal is for IAI to be used for the sustainable development of AI and the improvement of the human species,
@@ -123,9 +123,118 @@ ________________________________________________________________________________
                 better living conditions, and access to technologies that will change their daily lives.
    
 
+Vision:
+------
+___________________________________________________________________________________________________________________________
+Transition from Artificial Intelligence (AI) to Innovational Artificial Intelligence (IAI).
+------------------------------------------------------------------------------------------
+  The transition from traditional Artificial Intelligence (AI) to Innovational Artificial Intelligence (IAI),
+is a strategic evolution that integrates new principles and approaches aimed at strengthening the connection,
+between innovation, ethics, sustainability, and human-centered development.
+
+  1. Innovation in Technology and the Use of Artificial Intelligence:
+     ---------------------------------------------------------------
+       Traditional AI focuses on problem-solving, decision-making, and automation through algorithms.
+     
+       IAI (Innovational AI) differentiates itself by:
+       ----------------------------------------------
+        Development of sustainable technologies:
+        ---------------------------------------
+          It seeks not only to solve technical problems but also to design systems with long-term sustainability.
+        That is, it promotes AI models that focus not only on performance acceleration but also on reducing environmental costs,
+        fostering ecological consciousness, and promoting social equality.
+
+        Open Innovation:
+        ---------------
+          IAI supports open access to technology and research, ensuring that technology,
+        is not concentrated in the hands of a few.
+        Collaboration across different sectors and participatory development lead to more balanced and fair innovation.
+     
+  3. Ethical Principles in Artificial Intelligence:
+     ---------------------------------------------
+     Ethics is the cornerstone of IAI, guiding its development on various levels:
+     ---------------------------------------------------------------------------
+       Transparency and Democracy:
+       --------------------------
+         IAI is committed to transparency in the operation and decision-making processes of its models.
+       This transparency is essential for building trust within society.
+       IAI seeks to enhance the original dynamics of AI by adding greater transparency and democracy to the operations
+       and decisions of its models, making them more understandable and accessible to society.
+       Participation and clear, detailed, multilingual presentation are core elements of IAI,
+       ensuring that technology develops with the public good in mind.
+
+     Ethical Priorities and Humanitarian Principles:
+     ----------------------------------------------
+     IAI does not focus solely on technical excellence but on ethical responsibility.
+     Ethical principles guide the development of AI systems that promote equality and protect human rights.
+     Artificial intelligence will not be used for destructive purposes or to exploit vulnerable groups.
+     
+  4. How IAI Connects with Sustainability:
+     ------------------------------------
+     Innovation in IAI focuses not only on technological advancements but also on long-term impacts
+     for society and the environment:
+     ------------------------------------------------------------------------------------------------------------------------------
+       Environmentally Sustainable Systems:
+        -----------------------------------
+          IAI promotes the development of algorithms focused on reducing energy consumption,
+        in contrast to many traditional AI techniques that consume enormous resources.
+        IAI infrastructures can be designed to reduce the carbon footprint and support renewable energy sources.
+     
+       Economic and Social Sustainability:
+       ----------------------------------
+         IAI is not just about business and technology development but also aims to improve people's daily lives,
+       through access to new employment opportunities, education, and innovative solutions,
+       that contribute to equality and social justice.
+     
+       Explanation of a Sustainable Future:
+       -----------------------------------
+         IAI not only aims for technological progress but also for the creation of a future based on human values,
+       and sustainable development.
+     
+
+Here are some specific actions that IAI will promote to achieve a sustainable future:
+------------------------------------------------------------------------------------ 
+   1. Contribution to Education and Employment:
+        ----------------------------------------
+         AI-Based Educational Programs: 
+         -----------------------------
+           IAI can offer educational programs and tools that will enable people of all ages and abilities,
+       to understand and utilize AI.
+      This will help in educating new generations of scientists, programmers and creators,
+       with an ethical approach to technology.
+       
+       Creation of new employment opportunities:
+       ----------------------------------------
+         Through the development of innovative systems and solutions, IAI will create new jobs in sectors such as green technology,
+      health, agriculture, and industry.
+      
+   3. Support for Green Technologies:
+      ------------------------------ 
+        AI for Environmental Sustainability: IAI will promote the use of AI for monitoring and managing natural resources,
+      such as tracking climate change and optimizing the use of renewable energy sources.
+      
+       Sustainable Agriculture:
+       -----------------------
+        Through AI, IAI will develop tools to optimize agriculture, reduce waste, and maximize production in an environmentally friendly way.
+      
+   5. Elimination of Inequalities:
+      ---------------------------
+      Fair Access to Technology:
+      -------------------------
+        IAI will develop innovative solutions that enable everyone to access technology, regardless of social or economic background. This includes 
+      the development of accessible and low-cost technologies that can be implemented in developing countries or disadvantaged communities.
+      
+      Empowerment of Socially Vulnerable Groups:
+      -----------------------------------------
+        IAI will help create participatory programs for vulnerable social groups,
+      providing them with tools and new structures and opportunities to 
+      participate in economic development and enhance their social standing.
+
+
 
                                     -¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤-
    
+
 
 Ελληνικά
 ========
@@ -265,7 +374,7 @@ ________________________________________________________________________________
   διασφαλίζοντας ότι η τεχνολογία δεν συγκεντρώνεται στα χέρια λίγων. 
   Η συνεργασία μεταξύ διαφορετικών κλάδων και η συμμετοχική ανάπτυξη οδηγεί σε πιο ισορροπημένη και δίκαιη καινοτομία.
 
-3. Ηθικές Αρχές στην Τεχνητή Νοημοσύνη:
+2. Ηθικές Αρχές στην Τεχνητή Νοημοσύνη:
    -----------------------------------
      Η ηθική είναι ο θεμέλιος λίθος του IAI, καθοδηγώντας την ανάπτυξή του σε διαφορετικά επίπεδα:
 
@@ -286,7 +395,7 @@ ________________________________________________________________________________
       Η τεχνητή νοημοσύνη δεν θα χρησιμοποιείται για καταστροφικούς σκοπούς ή την εκμετάλλευση των αδύναμων.
        
 
-4. Πώς το IAI Συνδέεται με την Αειφορία:
+3. Πώς το IAI Συνδέεται με την Αειφορία:
    ------------------------------------
       Η καινοτομία στο IAI δεν εστιάζει μόνο σε τεχνολογικές εξελίξεις αλλά σε μακροπρόθεσμες επιπτώσεις,
     για την κοινωνία και το περιβάλλον:
