@@ -1,3 +1,8 @@
+// Copyright © 2024 Antonios Papathanasiou. All rights reserved.
+_______________________________________________________________________________________________
+// This file is part of the IAI - (INNOVATIONAL-ARTIFICIAL-INTELLIGENCE) project and is protected under the Adaptive Intellectual Property Framework (AIPF).
+_______________________________________________________________________________________________
+
 ###############################################################
 #        IAI - (Innovational Artificial Intelligence)         #
 ###############################################################
